@@ -151,6 +151,10 @@ button {
     padding: 3px 10px 4px 1
 }
 
+#submit a {
+    color:black;
+}    
+
 #submit a:hover {
    color: white;    
  }
