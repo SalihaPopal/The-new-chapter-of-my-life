@@ -134,26 +134,25 @@ footer{
 
 p {
     text-align: center;
-}
+} }
 
 button {
     border-radius: 10px;
     border: none;
-    color: black:
+    color: white;
 }
 
 #submit {
     background:  #798f9c;
-   
+    color: black;
     cursor: pointer;
-}
-
-#submit :hover {
-    background: #f1faee;
     border-radius: 10px;
     border: none;
-    margin-left:  2px;
-    margin-right: 2px;
+    padding: 3px 10px 4px 1
+}
+
+#submit a:hover {
+   color: white;    
  }
 
 
