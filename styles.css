@@ -134,7 +134,9 @@ footer{
 
 .p {
     text-align: center;
-} }
+    color:black;
+    font-weight: 600;
+} 
 
 button {
     border-radius: 10px;
