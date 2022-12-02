@@ -133,9 +133,11 @@ footer{
 }
 
 .p {
+    padding top: 
     text-align: center;
     color:black;
     font-weight: 600;
+    padding-top: 50px;
 } 
 
 button {
